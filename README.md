@@ -49,5 +49,5 @@
 
 [twitter]: https://twitter.com/mkparmar41
 [instagram]: https://instagram.com/m_p_9597
-[linkedin]: https://www.linkedin.com/in/mp9597/
+[linkedin]: https://www.linkedin.com/in/maulik-parmar/
 
