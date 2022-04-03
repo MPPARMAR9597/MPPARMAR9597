@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I’m currently working on My Portfolio.
-- 🌱 I’m currently learning Vue JS.
+- 🌱 I’m currently learning React JS.
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about any thing || Find on Google.
 - 📫 How to reach me: Twitter :- @mkparmar41
