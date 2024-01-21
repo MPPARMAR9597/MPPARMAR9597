@@ -48,6 +48,6 @@
 
 
 [twitter]: https://twitter.com/mkparmar41
-[instagram]: https://instagram.com/m_p_9597
+[instagram]: https://instagram.com/maulik_9597
 [linkedin]: https://www.linkedin.com/in/maulik-parmar/
 
